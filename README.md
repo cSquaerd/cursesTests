@@ -1,2 +1,2 @@
-# cursesTest
+# cursesTests
 ## Test code for practicing coding with the curses library in Python
